@@ -7,5 +7,5 @@ GameNet is a cross-platform game networking library written to work on Raspberry
 Following docker run command deploys the container,
 
 ```markdown
->> docker run -v /Users/vinothkumar/.kube:/root/.kube -it docker.io/cegvinoth/deploygamenet
+>> docker run -v <<local .kube folder location>>:/root/.kube -it docker.io/cegvinoth/deploygamenet
 ```
