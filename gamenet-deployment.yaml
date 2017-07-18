@@ -16,4 +16,4 @@ spec:
         - containerPort: 44663
           protocol: UDP
       nodeSelector:
-        nodename: rpi3-4
+        nodename: rpi3-5
